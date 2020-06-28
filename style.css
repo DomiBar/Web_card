@@ -1,0 +1,19 @@
+.header {
+    background-color: grey;
+}
+
+.title {
+    color: darkblue;
+    font-size: 40px;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+ul{
+    font-size: 24px;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+    border: 20px;
+}
