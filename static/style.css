@@ -1,3 +1,7 @@
+body{
+    background-color: silver;
+}
+
 .header {
     background-color: grey;
 }
@@ -16,4 +20,11 @@ p{
     font-size: 30px;
     font-weight: bold;
     border: 20px;
+}
+
+a{
+    color: gold;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bolder;
 }
